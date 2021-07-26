@@ -81,10 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Quentin Bouniot"
-  avatar           : "profile.png"
-  bio              : "I am a PhD student in the Vision and Learning Lab for Scene Analysis at CEA LIST and Data Intelligence research group at Université Jean-Monnet Saint-Étienne under the supervision of Amaury Habrard.
-
-My research topic focus on Few-shot Learning and Meta-Learning more specifically applied to Object Detection and Image Segmentation."
+  avatar           : "images/profil2.jpg"
+  bio              : "I am a PhD student in the Vision and Learning Lab for Scene Analysis at CEA LIST and Data Intelligence research group at Université Jean-Monnet Saint-Étienne under the supervision of Amaury Habrard."
   location         : "Paris, France"
   employer         :
   pubmed           : ""

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quentin Bouniot"
 title_separator          : "-"
 name                     : &name "Quentin Bouniot"
-description              : &description "PhD Student at CEA List"
+description              : &description "PhD student at CEA-List and Université Jean-Monnet Saint-Étienne."
 url                      : https://qbouniot.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qbouniot/qbouniot.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Quentin Bouniot"
   avatar           : "profil2.jpg"
-  bio              : "PhD student at CEA LIST and Université Jean-Monnet Saint-Étienne."
+  bio              : "PhD student at CEA-List and Université Jean-Monnet Saint-Étienne."
   location         : "Paris, France"
   employer         :
-  pubmed           : ""
-  googlescholar    : "CTK-Y2UAAAAJ"
-  email            : "quentin.bouniot@cea.fr"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=CTK-Y2UAAAAJ"
+  email            : "quentin[dot]bouniot[at]cea.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -1,5 +1,6 @@
 # Develop override settings
 
+title: "Quentin Bouniot [DEBUG MODE]"
 url: http://localhost:4000
 
 analytics:

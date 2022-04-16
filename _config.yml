@@ -86,8 +86,8 @@ author:
   location         : "Paris, France"
   employer         :
   pubmed           : ""
-  googlescholar    : ""
-  email            :
+  googlescholar    : "CTK-Y2UAAAAJ"
+  email            : "quentin.bouniot@cea.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  tips:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -231,6 +234,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _tips
+  - scope:
+      path: ""
+      type: tips
     values:
       layout: single
       author_profile: true

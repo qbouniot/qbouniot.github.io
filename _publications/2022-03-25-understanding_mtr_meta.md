@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/understanding_mtr_meta/
 excerpt: '[Official version](https://iclr-blog-track.github.io/2022/03/25/understanding_mtr_meta/)'
 date: 2022-03-25
-venue: 'ICLR 2022 Blog Track'
+venue: 'ICLR Blog Track'
 citation: '&quot;Understanding Few-Shot Multi-Task Representation Learning Theory&quot; Quentin Bouniot & Ievgen Redko, <i>ICLR Blog Track</i>, 2022'
 ---
 

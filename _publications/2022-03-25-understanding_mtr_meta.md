@@ -1,5 +1,5 @@
 ---
-title: "Improving Few-Shot Learning through Multi-task Representation Learning Theory"
+title: "Understanding Few-Shot Multi-Task Representation Learning Theory"
 collection: publications
 permalink: /publication/understanding_mtr_meta/
 excerpt: '[Official version](https://iclr-blog-track.github.io/2022/03/25/understanding_mtr_meta/)'

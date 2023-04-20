@@ -13,9 +13,11 @@ description: "Tips, tricks and useful librairies for programming."
 {% include base_path %}
 
 <br>
-
+ 
+ --- 
 {% for post in site.tips %}
   {% include archive-single-tips.html %}
+ --- 
 {% endfor %}
 
 <!-- <ul>

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Quentin Bouniot"
   avatar           : "profil2.jpg"
-  bio              : "PhD student at CEA-List and Université Jean-Monnet Saint-Étienne."
+  bio              : "Post-Doctoral Research at Télécom Paris"
   location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CTK-Y2UAAAAJ"
-  email            : "quentin[dot]bouniot[at]cea.fr"
+  email            : "quentin[dot]bouniot[at]telecom-paris.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

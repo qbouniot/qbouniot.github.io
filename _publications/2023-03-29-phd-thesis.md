@@ -6,9 +6,10 @@ permalink: /publication/2023-03-29-phd-thesis
 date: 2023-03-29
 venue: 'PhD Thesis'
 citation: '&quot;Towards Few-Annotation Learning in Computer Vision: Application to Image Classification and Object Detection tasks&quot; Quentin Bouniot (2023). <i>PhD Thesis</i>.'
+share: False
 ---
 
-[manuscript]({{ site.url }}/files/manuscrit_QBouniot_definitif.pdf) [slides]({{ site.url }}/files/slides_soutenance_QBouniot.pdf)
+[manuscript](https://arxiv.org/pdf/2311.04888.pdf) [slides]({{ site.url }}/files/slides_soutenance_QBouniot.pdf)
 
 ## Abstract
 

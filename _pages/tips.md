@@ -5,7 +5,7 @@ permalink: /tips/
 author_profile: true
 redirect_from:
   - /tricks/
-description: "Tips, tricks and useful librairies for programming."
+description: "Tips, tricks and useful librairies."
 ---
 
 <h3>{{ page.description }}</h3>
@@ -14,10 +14,9 @@ description: "Tips, tricks and useful librairies for programming."
 
 <br>
  
- --- 
 {% for post in site.tips %}
   {% include archive-single-tips.html %}
- --- 
+  <hr style="border:0.5px solid lightgray">
 {% endfor %}
 
 <!-- <ul>

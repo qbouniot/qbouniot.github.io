@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> <a href="{{ site.url }}/files/CV_QBouniot.pdf">Click here to download my CV</a> (Last updated on 20th April 2023).  
+> <a href="{{ site.url }}/files/CV_QBouniot.pdf">Click here to download my CV</a> (Last updated on 13th February 2024).  
 > For an up-to-date version, please send me an email. 
  
  <br>

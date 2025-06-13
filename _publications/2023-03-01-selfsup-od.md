@@ -2,10 +2,11 @@
 title: "Proposal-Contrastive Pretraining for Object Detection from Fewer Data"
 collection: publications
 permalink: /publication/2023-03-01-selfsup-od
-excerpt: '[Paper link](https://openreview.net/forum?id=gm0VZ-h-hPy)'
+excerpt: '[Paper](https://openreview.net/forum?id=gm0VZ-h-hPy)'
 date: 2023-03-01
 venue: 'ICLR'
-citation: '"Proposal-Contrastive Pretraining for Object Detection from Fewer Data" Quentin Bouniot,Romaric Audigier, Angelique Loesch, Amaury Habrard; The Eleventh International Conference on Learning Representations, 2023 '
+citation: '<u>Quentin Bouniot</u>, Romaric Audigier, Angelique Loesch, Amaury Habrard'
+share: False
 ---
 
 > **Notable Top-25%**
@@ -19,12 +20,12 @@ We show that our method outperforms state of the art in unsupervised pretraining
 
 ## Resources
 
-> [Paper link](https://openreview.net/forum?id=gm0VZ-h-hPy)
+- [Paper](https://openreview.net/forum?id=gm0VZ-h-hPy)
 
->**For attribution in academic contexts, please cite this work as**
->
->"Proposal-Contrastive Pretraining for Object Detection from Fewer Data" **Quentin Bouniot**, Romaric Audigier, Angelique Loesch, Amaury Habrard; The Eleventh International Conference on Learning Representations, 2023 
-
+<!-- **For attribution in academic contexts, please cite this work as** -->
+<!-- >
+>"Proposal-Contrastive Pretraining for Object Detection from Fewer Data" **Quentin Bouniot**, Romaric Audigier, Angelique Loesch, Amaury Habrard; The Eleventh International Conference on Learning Representations, 2023  -->
+## Bibtex
 
 >```BibTex
 >@inproceedings{

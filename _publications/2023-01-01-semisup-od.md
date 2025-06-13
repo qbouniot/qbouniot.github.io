@@ -2,11 +2,12 @@
 title: "Towards Few-Annotation Learning for Object Detection: Are Transformer-Based Models More Efficient?"
 collection: publications
 permalink: /publication/2023-01-01-semisup-od
-excerpt: '[Paper link](https://openaccess.thecvf.com/content/WACV2023/html/Bouniot_Towards_Few-Annotation_Learning_for_Object_Detection_Are_Transformer-Based_Models_More_WACV_2023_paper.html)'
+excerpt: '[Paper](https://openaccess.thecvf.com/content/WACV2023/html/Bouniot_Towards_Few-Annotation_Learning_for_Object_Detection_Are_Transformer-Based_Models_More_WACV_2023_paper.html), [Slides]({{ site.url }}/files/slides_WACV2023_QBouniot.pdf)'
 date: 2023-01-01
 venue: 'WACV'
 # paperurl: 'https://openaccess.thecvf.com/content_CVPRW_2020/html/w47/Bouniot_Vulnerability_of_Person_Re-Identification_Models_to_Metric_Adversarial_Attacks_CVPRW_2020_paper.html'
-citation: '"Towards Few-Annotation Learning for Object Detection: Are Transformer-Based Models More Efficient?" Quentin Bouniot, Angélique Loesch, Romaric Audigier, Amaury Habrard; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023, pp. 75-84'
+citation: '<u>Quentin Bouniot</u>, Angélique Loesch, Romaric Audigier, Amaury Habrard'
+share: False
 ---
 
 ## Abstract
@@ -15,13 +16,13 @@ For specialized and dense downstream tasks such as object detection, labeling da
 
 ## Resources
 
-> [Paper link](https://openaccess.thecvf.com/content/WACV2023/html/Bouniot_Towards_Few-Annotation_Learning_for_Object_Detection_Are_Transformer-Based_Models_More_WACV_2023_paper.html)
-> [Slides]({{ site.url }}/files/slides_WACV2023_QBouniot.pdf)
+- [Paper](https://openaccess.thecvf.com/content/WACV2023/html/Bouniot_Towards_Few-Annotation_Learning_for_Object_Detection_Are_Transformer-Based_Models_More_WACV_2023_paper.html) 
+- [Slides]({{ site.url }}/files/slides_WACV2023_QBouniot.pdf)
 
->**For attribution in academic contexts, please cite this work as**
->
->"Towards Few-Annotation Learning for Object Detection: Are Transformer-Based Models More Efficient?" **Quentin Bouniot**, Angélique Loesch, Romaric Audigier, Amaury Habrard; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023, pp. 75-84 
-
+<!-- >**For attribution in academic contexts, please cite this work as**
+> -->
+<!-- >"Towards Few-Annotation Learning for Object Detection: Are Transformer-Based Models More Efficient?" **Quentin Bouniot**, Angélique Loesch, Romaric Audigier, Amaury Habrard; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023, pp. 75-84  -->
+## Bibtex
 
 >```BibTex
 >@InProceedings{Bouniot_2023_WACV,

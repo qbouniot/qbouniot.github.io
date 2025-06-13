@@ -2,11 +2,12 @@
 title: "Optimal Transport as a Defense Against Adversarial Attacks"
 collection: publications
 permalink: /publication/2021-02-05-optimal-transport
-excerpt: '[Paper link](https://arxiv.org/abs/2102.03156)'
+excerpt: '[Paper](https://arxiv.org/abs/2102.03156)'
 date: 2021-02-05
 venue: 'ICPR'
 # paperurl: 'https://arxiv.org/abs/2102.03156'
-citation: ' &quot;Optimal Transport as a Defense Against Adversarial Attacks.&quot; Quentin Bouniot, Romaric Audigier, Angélique Loesch (2021). <i>IEEE International Conference on Pattern Recognition (ICPR) 2020</i>.'
+citation: '<u>Quentin Bouniot</u>, Romaric Audigier, Angélique Loesch'
+share: False
 ---
 
 ## Abstract
@@ -15,15 +16,17 @@ Deep learning classifiers are now known to have flaws in the representations of 
 
 ## Resources
 
-- [Paper link](https://arxiv.org/abs/2102.03156)
+- [Paper](https://arxiv.org/abs/2102.03156)
+- [Code](https://github.com/CEA-LIST/adv-sat?tab=readme-ov-file)
 - [Video](https://crossminds.ai/video/optimal-transport-as-a-defense-against-adversarial-attacks-6035a52dc390863d8e9c1b1f/)
 - [Slides]({{ site.url }}/files/slides_ICPR2020_QB.pdf)
 - [Poster]({{ site.url }}/files/poster_ICPR2020_QB.pdf)
 
->**For attribution in academic contexts, please cite this work as**
+<!-- >**For attribution in academic contexts, please cite this work as**
 >
 >"Optimal transport as a defense against adversarial attacks."
- **Quentin Bouniot**, Romaric Audigier, Angelique Loesch. *2020 25th International Conference on Pattern Recognition (ICPR).* IEEE, 2021.
+ **Quentin Bouniot**, Romaric Audigier, Angelique Loesch. *2020 25th International Conference on Pattern Recognition (ICPR).* IEEE, 2021. -->
+## Bibtex
 
 >```BibTex
 >@inproceedings{bouniot2021optimal,

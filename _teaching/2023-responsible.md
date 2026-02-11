@@ -19,3 +19,5 @@ Artificial intelligence, as a transversal discipline, plays a central role in ou
 # Course link
 
 [All the resources for the course](https://responsible-ai-datascience-ipparis.github.io/)
+
+- TP 1: <https://colab.research.google.com/drive/1zcMxE12KzNKV_1UkIEvfZGJnVMnrBacL?usp=sharing>

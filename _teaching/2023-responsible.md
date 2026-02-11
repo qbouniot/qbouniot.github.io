@@ -5,7 +5,7 @@ type: "Course Lecturer"
 # permalink: /teaching/2020-winter-teaching
 venue: "Télécom Paris, Institut Polytechnique de Paris"
 start: 2023-10-01
-end: 2024-04-01
+end: 2026-04-01
 location: "Paris, France"
 share: False
 ---
@@ -20,4 +20,5 @@ Artificial intelligence, as a transversal discipline, plays a central role in ou
 
 [All the resources for the course](https://responsible-ai-datascience-ipparis.github.io/)
 
-- TP 1: <https://colab.research.google.com/drive/1zcMxE12KzNKV_1UkIEvfZGJnVMnrBacL?usp=sharing>
+- Practical session 1: <https://colab.research.google.com/drive/1zcMxE12KzNKV_1UkIEvfZGJnVMnrBacL?usp=sharing>
+- Practical session 2: <https://colab.research.google.com/drive/1RL0RvRIxDG4wwFOWNT_nLg8oDNQf1DCt?usp=sharing>

@@ -1,0 +1,23 @@
+---
+permalink: /
+title: "Hello There !"
+excerpt: "News & Bio"
+author_profile: true
+redirect_from: 
+  - /news/
+  - /news.html
+---
+
+I am an **Assistant Professor** at [Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/). I am a member of the [LTCI lab](https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci), in the [S2A team](https://s2a.telecom-paris.fr/). Prior to this, I was a post-doctoral researcher in the [Explainable Machine Learning](https://www.eml-munich.de/), at the [Technical University of Munich](https://www.tum.de/en/) and [Helmholtz Munich](https://www.helmholtz-munich.de/en).
+
+My main line of research revolves around **Deep Representation Learning**, and my current research interests include:
+- alignment of representation between modalities, mainly vision-language
+- explainability, robustness, uncertainty quantification 
+- learning with limited labeled data
+
+# News 
+- **Mar 2026** - I started as an Assistant Professor at Télécom Paris!
+- **Feb 2026** - 1 paper accepted @ CVPR 2026
+- **Dec 2025** - I will be presenting our NeurIPS paper @ EurIPS in Copenhagen !
+- **Oct 2025** - Check out our workshop @ ICCV 2025 on "Explainable Computer Vision: Quo Vadis?": <https://excv-workshop.github.io/ >
+- **Sep 2025** - 1 paper accepter @ NeurIPS 2025 

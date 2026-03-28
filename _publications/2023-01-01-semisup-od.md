@@ -8,7 +8,10 @@ venue: 'WACV'
 # paperurl: 'https://openaccess.thecvf.com/content_CVPRW_2020/html/w47/Bouniot_Vulnerability_of_Person_Re-Identification_Models_to_Metric_Adversarial_Attacks_CVPRW_2020_paper.html'
 citation: '<u>Quentin Bouniot</u>, Angélique Loesch, Romaric Audigier, Amaury Habrard'
 share: False
+teaser: /images/publications/WACV_mt_detr.png
 ---
+
+![Main Figure](/images/publications/WACV_mt_detr.png)
 
 ## Abstract
 

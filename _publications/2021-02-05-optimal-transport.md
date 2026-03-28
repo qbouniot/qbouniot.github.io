@@ -8,7 +8,10 @@ venue: 'ICPR'
 # paperurl: 'https://arxiv.org/abs/2102.03156'
 citation: '<u>Quentin Bouniot</u>, Romaric Audigier, Angélique Loesch'
 share: False
+teaser: /images/publications/ICPR2020_adv_sat.png
 ---
+
+![Main Figure](/images/publications/ICPR2020_adv_sat.png)
 
 ## Abstract
 

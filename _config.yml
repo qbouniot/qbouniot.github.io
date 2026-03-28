@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quentin Bouniot"
 title_separator          : "-"
 name                     : &name "Quentin Bouniot"
-description              : &description "Postdoc at TUM and Helmholtz Munich"
+description              : &description "Assistant Professor at Telecom Paris, Institut Polytechnique de Paris"
 url                      : https://qbouniot.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qbouniot/qbouniot.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Quentin Bouniot"
   avatar           : "Photo_qbouniot.jpg"
-  bio              : "Post-Doctoral Researcher at TUM and Helmholtz Munich"
-  location         : "Munich, Germany"
+  bio              : "Assistant Professor"
+  location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CTK-Y2UAAAAJ"
-  email            : "quentin[dot]bouniot[at]tum[dot]de"
+  email            : "quentin[dot]bouniot[at]telecom-paris[dot]fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

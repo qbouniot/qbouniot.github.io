@@ -7,9 +7,10 @@ date: 2023-03-29
 venue: 'PhD Thesis'
 citation: 'Quentin Bouniot'
 share: False
+teaser: /images/publications/phd_thesis_teaser.png
 ---
 
-<!-- [manuscript](https://arxiv.org/pdf/2311.04888.pdf) [slides]({{ site.url }}/files/slides_soutenance_QBouniot.pdf) -->
+![Main Figure](/images/publications/phd_thesis_teaser.png)
 
 ## Abstract
 

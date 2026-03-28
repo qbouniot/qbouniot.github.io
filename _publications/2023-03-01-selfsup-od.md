@@ -7,7 +7,10 @@ date: 2023-03-01
 venue: 'ICLR'
 citation: '<u>Quentin Bouniot</u>, Romaric Audigier, Angelique Loesch, Amaury Habrard'
 share: False
+teaser: /images/publications/ICLR2023_proseco.png
 ---
+
+![Main Figure](/images/publications/ICLR2023_proseco.png)
 
 > **Notable Top-25%**
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello There !"
+title: "👋 Hello There !"
 excerpt: "News & Bio"
 author_profile: true
 redirect_from: 
@@ -15,9 +15,17 @@ My main line of research revolves around **Deep Representation Learning**, and m
 - explainability, robustness, uncertainty quantification 
 - learning with limited labeled data
 
-# News 
-- **Mar 2026** - I started as an Assistant Professor at Télécom Paris!
-- **Feb 2026** - 1 paper accepted @ CVPR 2026
-- **Dec 2025** - I will be presenting our NeurIPS paper @ EurIPS in Copenhagen !
-- **Oct 2025** - Check out our workshop @ ICCV 2025 on "Explainable Computer Vision: Quo Vadis?": <https://excv-workshop.github.io/ >
-- **Sep 2025** - 1 paper accepter @ NeurIPS 2025 
+---
+
+> 📢 **I'm hiring a PhD student for Fall 2026! Please contact me if you are interested.**
+
+---
+
+# 📰 News
+
+- **Apr 2026** - The 3rd iteration of our workshop on ["Explainable Computer Vision: Quo Vadis?"](<https://excv-workshop.github.io/ >) was accepted @ ECCV 2026! Stay tuned for more information 👀
+- **Mar 2026** - I started as an Assistant Professor at Télécom Paris! 🎉
+- **Feb 2026** - 1 paper accepted @ CVPR 2026! 👉 [Check it out!](https://qbouniot.github.io/publications/2026-03-27-rethinking_cbm/)
+- **Dec 2025** - I will be presenting our NeurIPS paper @ EurIPS in Copenhagen! ❄️
+- **Oct 2025** - Check out the 2nd iteration of our workshop @ ICCV 2025 on ["Explainable Computer Vision: Quo Vadis?"](<https://excv-workshop.github.io/ >)
+- **Sep 2025** - 1 paper accepter @ NeurIPS 2025! 👉 [Check it out!](https://qbouniot.github.io/publications/2025-10-03-saes/)

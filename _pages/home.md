@@ -8,7 +8,7 @@ redirect_from:
   - /news.html
 ---
 
-I am an **Assistant Professor** at [Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/). I am a member of the [LTCI lab](https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci), in the [S2A team](https://s2a.telecom-paris.fr/). Prior to this, I was a post-doctoral researcher in the [Explainable Machine Learning](https://www.eml-munich.de/), at the [Technical University of Munich](https://www.tum.de/en/) and [Helmholtz Munich](https://www.helmholtz-munich.de/en).
+I am an **Assistant Professor** and [Hi! Paris](https://hi-paris.fr/) Chair Holder at [Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/). I am a member of the [LTCI lab](https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci), in the [S2A team](https://s2a.telecom-paris.fr/). Prior to this, I was a post-doctoral researcher in the [Explainable Machine Learning](https://www.eml-munich.de/), at the [Technical University of Munich](https://www.tum.de/en/) and [Helmholtz Munich](https://www.helmholtz-munich.de/en).
 
 My main line of research revolves around **Deep Representation Learning**, and my current research interests include:
 - alignment of representation between modalities, mainly vision-language
@@ -17,7 +17,12 @@ My main line of research revolves around **Deep Representation Learning**, and m
 
 ---
 
-> 📢 **I'm hiring a PhD student for Fall 2026! Please contact me if you are interested.**
+# 📢 Hiring
+
+**I'm hiring a PhD student for Fall 2026, on the topic of:** 
+> *Understanding and Characterizing the Geometry of Representations within Foundation Models and across layers*  
+
+**Please contact me if you are interested!**
 
 ---
 

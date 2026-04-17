@@ -22,15 +22,27 @@ My main line of research revolves around **Deep Representation Learning**, and m
 **I'm hiring a PhD student for Fall 2026, on the topic of:** 
 > *Understanding and Characterizing the Geometry of Representations within Foundation Models and across layers*  
 
-**Please contact me if you are interested!**
+**Don't hesitate to contact me if you are interested! 👉 [Check here for more details!]({{ site.url }}/hiring)**
 
 ---
 
-# 📰 News
+<div class="news-section">
 
-- **Apr 2026** - The 3rd iteration of our workshop on ["Explainable Computer Vision: Quo Vadis?"](<https://excv-workshop.github.io/ >) was accepted @ ECCV 2026! Stay tuned for more information 👀
-- **Mar 2026** - I started as an Assistant Professor at Télécom Paris! 🎉
-- **Feb 2026** - 1 paper accepted @ CVPR 2026! 👉 [Check it out!](https://qbouniot.github.io/publications/2026-03-27-rethinking_cbm/)
-- **Dec 2025** - I will be presenting our NeurIPS paper @ EurIPS in Copenhagen! ❄️
-- **Oct 2025** - Check out the 2nd iteration of our workshop @ ICCV 2025 on ["Explainable Computer Vision: Quo Vadis?"](<https://excv-workshop.github.io/ >)
-- **Sep 2025** - 1 paper accepter @ NeurIPS 2025! 👉 [Check it out!](https://qbouniot.github.io/publications/2025-10-03-saes/)
+<h1 id="-news"> 📰 News </h1>
+
+<ul>
+  <li>
+    <strong>Apr 2026</strong>:
+    <ul>
+      <li>The 3rd iteration of our workshop on <a href="https://excv-workshop.github.io/">"Explainable Computer Vision: Quo Vadis?"</a> was accepted @ ECCV 2026! Stay tuned for more information 👀</li>
+      <li>I will present our CVPR paper @ <a href="https://cvprinparis.github.io/CVPR2026InParis/">CVPR in Paris</a>! See you there 🥐</li>
+    </ul>
+  </li>
+  <li><strong>Mar 2026</strong> - I started as an Assistant Professor at Télécom Paris! 🎉</li>
+  <li><strong>Feb 2026</strong> - 1 paper accepted @ CVPR 2026! 👉 <a href="https://qbouniot.github.io/publications/2026-03-27-rethinking_cbm/">Check it out!</a></li>
+  <li><strong>Dec 2025</strong> - I will be presenting our NeurIPS paper @ EurIPS in Copenhagen! ❄️</li>
+  <li><strong>Oct 2025</strong> - Check out the 2nd iteration of our workshop @ ICCV 2025 on <a href="https://excv-workshop.github.io/">"Explainable Computer Vision: Quo Vadis?"</a></li>
+  <li><strong>Sep 2025</strong> - 1 paper accepter @ NeurIPS 2025! 👉 <a href="https://qbouniot.github.io/publications/2025-10-03-saes/">Check it out!</a></li>
+</ul>
+
+</div>

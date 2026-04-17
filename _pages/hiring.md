@@ -30,13 +30,16 @@ More details on the research topic can be found [here]({{ site.url }}/files/phd_
 
 We are seeking a highly motivated candidate with:
 
+**Required:**
 - A **Master's degree** (or equivalent) in machine learning, applied mathematics, computer science, or a related field
 - Strong foundations in **mathematics** (linear algebra, probability, optimization, statistics)
-- Solid **programming skills** (Python, PyTorch or similar deep learning libraries)
+- Solid **programming skills** (Python, PyTorch or similar deep learning framework)
 - Interest in **deep learning theory**, representation learning, or interpretability
 - Good communication skills in **English** (written and spoken)
 
-Previous experience with foundation models, representation analysis, or mechanistic interpretability is a plus but not required.
+**Optional**:
+- Previous experience in research in deep learning (e.g., publications)
+- Experience working with Foundation Models, Representation-level analysis or on mechanistic interpretability
 
 ---
 

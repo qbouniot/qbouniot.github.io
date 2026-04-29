@@ -22,7 +22,7 @@ author_profile: true
 
 Foundation Models (large vision or language models, multimodal architectures, etc.) have become central to modern AI, but their internal process of data remain poorly understood. This PhD project aims to develop a principled framework for analyzing the internal representations of these models, layer by layer, across architectures, and across data modalities. The goal is to build theoretically grounded tools that characterize how these models process information, and to establish actionable links between internal structure and downstream properties such as transferability, robustness, and interpretability.
 
-More details on the research topic can be found [here]({{ site.url }}/files/phd_proposal.pdf).
+More details on the research topic can be found [here]({{ site.url }}/files/phd_proposal-full.pdf).
 
 ---
 

@@ -36,6 +36,7 @@ My main line of research revolves around **Deep Representation Learning**, and m
     <ul>
       <li>The 3rd iteration of our workshop on <a href="https://excv-workshop.github.io/">"Explainable Computer Vision: Quo Vadis?"</a> was accepted @ ECCV 2026! Stay tuned for more information 👀</li>
       <li>I will present our CVPR paper @ <a href="https://cvprinparis.github.io/CVPR2026InParis/">CVPR in Paris</a>! See you there 🥐</li>
+      <li>I gave a talk at the <a href="https://hi-paris.fr/2026/03/hi-paris-reading-groups-ai-robustness-security/">Hi! Paris Reading group on "AI Robustness & Security"</a>!
     </ul>
   </li>
   <li><strong>Mar 2026</strong> - I started as an Assistant Professor at Télécom Paris! 🎉</li>

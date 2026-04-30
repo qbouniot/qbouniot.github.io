@@ -10,7 +10,7 @@ author_profile: true
 
 **Location:** [Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/) (France)  
 **Host Laboratory:** [S2A team](https://s2a.telecom-paris.fr/) / [LTCI lab](https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci)  
-**Supervising Team:** Quentin Bouniot (Main Supervisor, Télécom Paris), [Prof. Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) (Thesis Director, Télécom Paris), [Prof. Dr. Stefanie Jegelka](https://www.professoren.tum.de/jegelka-stefanie) (TUM)  
+**Supervising Team:** [Quentin Bouniot](https://qbouniot.github.io/) (Télécom Paris), [Prof. Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) (Télécom Paris), [Prof. Dr. Stefanie Jegelka](https://www.professoren.tum.de/jegelka-stefanie) (TUM)  
 **Starting Date:** Fall 2026 (Flexible)  
 **Duration:** 3 years
 
@@ -47,7 +47,7 @@ We are seeking a highly motivated candidate with:
 
 - A vibrant research environment at **Télécom Paris**, one of France's top engineering schools, within the **Institut Polytechnique de Paris** and French research ecosystem
 - An international collaboration with the **Technical University of Munich (TUM)**, with opportunities for **research visits in Munich**
-- Funding for **conference attendance and publications at top-tier venues** (NeurIPS, ICML, ICLR, CVPR, etc.)
+- Funding for **conference attendance and publications at top-tier venues** (NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, etc.)
 
 # How to Apply
 
@@ -58,6 +58,6 @@ Please send the following documents to `quentin[dot]bouniot[at]telecom-paris[dot
 - A brief **motivation letter** explaining your interest in the topic (1 page max)
 - Contact information for **1–2 references**
 
-Applications will be reviewed on a **rolling basis**. Do not hesitate to reach out informally if you have questions about the position or the research topic.
+Applications will be reviewed on a **rolling basis**. **Do not hesitate to reach out informally** if you have questions about the position, the research topic or the application process.
 
 *We are committed to fostering an inclusive research environment and encourage applications from candidates of all backgrounds.*

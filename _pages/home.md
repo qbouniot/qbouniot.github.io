@@ -31,6 +31,16 @@ My main line of research revolves around **Deep Representation Learning**, and m
 <h1 id="-news"> 📰 News </h1>
 
 <ul>
+ <li> <strong>May 2026</strong> - 5 papers accepted @ ICML 2026! See you in Seoul 🇰🇷 Check them out 👇
+    <ul>
+         <li> <strong>SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport</strong> <br>
+          Simon Roschmann, Paul Krzakala, Sonia Mazelet, <u>Quentin Bouniot</u>, Zeynep Akata </li>
+         <li> <i>(✨Spotlight✨)</i> <strong>Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers</strong> <br> Yiran Huang, Karsten Roth, <u>Quentin Bouniot</u>, Wenjia Xu, Zeynep Akata </li>
+         <li> <strong> The Latent Color Subspace: Emergent Order in High-Dimensional Chaos </strong> <br> Mateusz Pach, Jessica Bader, <u>Quentin Bouniot</u>, Serge Belongie, Zeynep Akata </li>
+         <li> <strong> Mantis: Lightweight Foundation Model for Time Series Classification </strong> <br> Vasilii Feofanov, Songkang Wen, Shifeng Xie, Simon Roschmann, Marius Alonso, Hongbo Guo, Romain Ilbert, Malik Tiomoko, <u>Quentin Bouniot</u>, Zeynep Akata, Lujia Pan, Jianfeng Zhang, Ievgen Redko </li>
+         <li> <strong> TimeSAE: Sparse Decoding for Faithful Explanations of Black-Box Time Series Models </strong> <br> Khalid Oublal, <u>Quentin Bouniot</u>, Qi Gan, Stephan Clémençon, Zeynep Akata </li>
+    </ul>
+ </li> 
   <li>
     <strong>Apr 2026</strong>:
     <ul>

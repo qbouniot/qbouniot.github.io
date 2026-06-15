@@ -4,7 +4,7 @@ collection: publications
 # permalink: /affscore_website
 excerpt: '[Paper](http://arxiv.org/abs/2603.05629)'
 date: 2026-03-27
-venue: 'CVPR'
+venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 # paperurl: 'https://arxiv.org/abs/2010.01992'
 citation: 'Merve Tapli, <u>Quentin Bouniot</u>, Wolfgang Stammer, Zeynep Akata, Emre Akbas'
 share: False
@@ -23,13 +23,13 @@ Concept Bottleneck Models (CBMs) ground predictions in human-understandable conc
 - [Code](https://github.com/mervetapli/CBMSuite)
 
 
-## Bibtex
+<!-- ## Bibtex
 
 >```BibTex
 >@article{tapli2026rethinking,
 >  title={Rethinking Concept Bottleneck Models: From Pitfalls to Solutions}, 
 >  author={Tapli, Merve and Bouniot, Quentin and Stammer, Wolfgang and Akata, Zeynep and Akbas, Emre},
->  journal={CVPR},
+>  journal={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 >  year={2026}
 >}
->``` 
+>```  -->

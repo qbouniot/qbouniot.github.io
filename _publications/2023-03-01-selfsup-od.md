@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-03-01-selfsup-od
 excerpt: '[Paper](https://openreview.net/forum?id=gm0VZ-h-hPy)'
 date: 2023-03-01
-venue: 'ICLR'
+venue: 'International Conference on Learning Representations (ICLR)'
 citation: '<u>Quentin Bouniot</u>, Romaric Audigier, Angelique Loesch, Amaury Habrard'
 share: False
 teaser: /images/publications/ICLR2023_proseco.png
@@ -28,7 +28,7 @@ We show that our method outperforms state of the art in unsupervised pretraining
 <!-- **For attribution in academic contexts, please cite this work as** -->
 <!-- >
 >"Proposal-Contrastive Pretraining for Object Detection from Fewer Data" **Quentin Bouniot**, Romaric Audigier, Angelique Loesch, Amaury Habrard; The Eleventh International Conference on Learning Representations, 2023  -->
-## Bibtex
+<!-- ## Bibtex
 
 >```BibTex
 >@inproceedings{
@@ -39,4 +39,4 @@ We show that our method outperforms state of the art in unsupervised pretraining
 >year={2023},
 >url={https://openreview.net/forum?id=gm0VZ-h-hPy}
 >}
->``` 
+>```  -->

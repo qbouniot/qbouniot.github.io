@@ -21,7 +21,7 @@ In this thesis, we develop theoretical, algorithmic and experimental contributio
 - [Manuscript](https://arxiv.org/pdf/2311.04888.pdf)
 - [Slides]({{ site.url }}/files/slides_soutenance_QBouniot.pdf)
 
-## Bibtex
+<!-- ## Bibtex
 
 >```BibTex
 >@phdthesis{bouniot2023towards,
@@ -30,4 +30,4 @@ In this thesis, we develop theoretical, algorithmic and experimental contributio
 >  year={2023},
 >  school={Universit{\'e} Jean Monnet-Saint-Etienne}
 >}
->``` 
+>```  -->

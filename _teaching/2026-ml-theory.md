@@ -1,7 +1,7 @@
 ---
 title: "Recent Advances in Responsible AI"
 collection: teaching
-# type: "Course Lecturer"
+type: "Assistant Professor"
 # permalink: /teaching/2020-winter-teaching
 venue: "Télécom Paris, Institut Polytechnique de Paris"
 start: 2026-09-01

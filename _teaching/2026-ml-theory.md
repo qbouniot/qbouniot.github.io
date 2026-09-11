@@ -1,5 +1,5 @@
 ---
-title: "Recent Advances in Responsible AI"
+title: "Introduction to Machine Learning Theory"
 collection: teaching
 type: "Assistant Professor"
 # permalink: /teaching/2020-winter-teaching

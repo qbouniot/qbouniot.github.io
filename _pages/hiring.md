@@ -16,6 +16,9 @@ author_profile: true
 
 ---
 
+# **This position has been filled!**  
+
+
 # Topic
 
 > Understanding and Characterizing the Geometry of Representations Across Layers, Models, and Modalities

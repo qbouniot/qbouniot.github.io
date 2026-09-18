@@ -22,4 +22,5 @@ Artificial intelligence, as a transversal discipline, plays a central role in ou
 
 <!-- - Practical session 1: <https://colab.research.google.com/drive/1zcMxE12KzNKV_1UkIEvfZGJnVMnrBacL?usp=sharing>
 - Practical session 2: <https://colab.research.google.com/drive/1RL0RvRIxDG4wwFOWNT_nLg8oDNQf1DCt?usp=sharing> -->
-- [TD1]({{ site.url }}/files/learning_td1-qb.pdf)
+- TD1: [FR]({{ site.url }}/files/learning_td1-qb.pdf) / [EN]({{ site.url }}/files/learning_td1-en-qb.pdf)
+- TD2: [FR]({{ site.url }}/files/learning_td2-qb.pdf) / [EN]({{ site.url }}/files/learning_td2-en-qb.pdf)

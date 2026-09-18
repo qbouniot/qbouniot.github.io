@@ -17,14 +17,14 @@ My main line of research revolves around **Deep Representation Learning**, and m
 
 ---
 
-# 📢 Hiring
+<!-- # 📢 Hiring
 
 **I'm hiring a PhD student for Fall 2026, on the topic of:** 
 > *Understanding and Characterizing the Geometry of Representations within Foundation Models and across layers*  
 
 **Don't hesitate to contact me if you are interested! 👉 [Check here for more details!]({{ site.url }}/hiring)**
 
----
+--- -->
 
 <div class="news-section">
 

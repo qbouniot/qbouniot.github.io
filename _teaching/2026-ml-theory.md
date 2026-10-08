@@ -25,7 +25,11 @@ Artificial intelligence, as a transversal discipline, plays a central role in ou
 - **TD1:** 
   - Exercises only: [FR]({{ site.url }}/files/learning_td1-qb.pdf) / [EN]({{ site.url }}/files/learning_td1-en-qb.pdf)
   - With correction: [FR]({{ site.url }}/files/learning_td1-qb-corrige.pdf) / [EN]({{ site.url }}/files/learning_td1-en-qb-corrige.pdf)
-- **TD2:** [FR]({{ site.url }}/files/learning_td2-qb.pdf) / [EN]({{ site.url }}/files/learning_td2-en-qb.pdf)
+- **TD2:**
+  - Exercises only: [FR]({{ site.url }}/files/learning_td2-qb.pdf) / [EN]({{ site.url }}/files/learning_td2-en-qb.pdf)
+  - With correction: [FR]({{ site.url }}/files/learning_td2-qb-corrige.pdf) / [EN]({{ site.url }}/files/learning_td2-en-qb-corrige.pdf)
 - **TD3:** 
   - Exercises only: [FR]({{ site.url }}/files/learning_td3-qb.pdf) / [EN]({{ site.url }}/files/learning_td3-en-qb.pdf)
   - With correction: [FR]({{ site.url }}/files/learning_td3-qb-corrige.pdf) / [EN]({{ site.url }}/files/learning_td3-qb-corrige-en.pdf)
+- **TD4:**
+  - Exercises only: [FR]({{ site.url }}/files/learning_td4-qb.pdf) / [EN]({{ site.url }}/files/learning_td4-qb-en.pdf)

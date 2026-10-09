@@ -33,3 +33,4 @@ Artificial intelligence, as a transversal discipline, plays a central role in ou
   - With correction: [FR]({{ site.url }}/files/learning_td3-qb-corrige.pdf) / [EN]({{ site.url }}/files/learning_td3-qb-corrige-en.pdf)
 - **TD4:**
   - Exercises only: [FR]({{ site.url }}/files/learning_td4-qb.pdf) / [EN]({{ site.url }}/files/learning_td4-qb-en.pdf)
+  - With correction: [FR]({{ site.url }}/files/learning_td4-qb-corr.pdf) / [EN]({{ site.url }}/files/learning_td4-qb-en-corr.pdf)

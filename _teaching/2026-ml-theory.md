@@ -14,12 +14,13 @@ share: False
 
 <!-- # Goal of the course
 
-# Course link and ressources
-
 <!-- - All the official resources for the course are available there: <https://responsible-ai-datascience-ipparis.github.io/> -->
 
 <!-- - Practical session 1: <https://colab.research.google.com/drive/1zcMxE12KzNKV_1UkIEvfZGJnVMnrBacL?usp=sharing>
 - Practical session 2: <https://colab.research.google.com/drive/1RL0RvRIxDG4wwFOWNT_nLg8oDNQf1DCt?usp=sharing> -->
+
+# Course link and resources
+
 - **Lecture Notes:** [EN-only]({{ site.url }}/files/lecturenotes.pdf)
 - **TD1:** 
   - Exercises only: [FR]({{ site.url }}/files/learning_td1-qb.pdf) / [EN]({{ site.url }}/files/learning_td1-en-qb.pdf)

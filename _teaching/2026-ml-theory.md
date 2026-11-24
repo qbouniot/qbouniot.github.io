@@ -10,11 +10,9 @@ location: "Paris, France"
 share: False
 ---
 
-> This course is part of the Master 2 Data Science program from IP Paris.
+> This course is part of the Master 2 Data Science program from IP Paris, and also from the Master 2 Random Modelling (Modélisation aléatoire, M2MO).
 
 <!-- # Goal of the course
-
-Artificial intelligence, as a transversal discipline, plays a central role in our modern society, driving vital advances and amplifying efficiency, well-informed decision-making and general practicality in our daily routines. This advanced master’s course aims to provide students with a comprehensive understanding of the latest developments in Responsible AI. The course will explore various facets of Responsible AI, including interpretable AI, fairness in machine learning, robust machine learning, data privacy, and frugality. Students will delve into both theoretical foundations and practical implementations, equipping them with the skills to design and implement AI systems that are ethical, accountable, and aligned with societal values. -->
 
 # Course link and ressources
 
@@ -22,6 +20,7 @@ Artificial intelligence, as a transversal discipline, plays a central role in ou
 
 <!-- - Practical session 1: <https://colab.research.google.com/drive/1zcMxE12KzNKV_1UkIEvfZGJnVMnrBacL?usp=sharing>
 - Practical session 2: <https://colab.research.google.com/drive/1RL0RvRIxDG4wwFOWNT_nLg8oDNQf1DCt?usp=sharing> -->
+- **Lecture Notes:** [EN-only]({{ site.url }}/files/lecturenotes.pdf)
 - **TD1:** 
   - Exercises only: [FR]({{ site.url }}/files/learning_td1-qb.pdf) / [EN]({{ site.url }}/files/learning_td1-en-qb.pdf)
   - With correction: [FR]({{ site.url }}/files/learning_td1-qb-corrige.pdf) / [EN]({{ site.url }}/files/learning_td1-en-qb-corrige.pdf)

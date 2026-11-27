@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quentin Bouniot"
   avatar           : "Photo_qbouniot.jpg"
-  bio              : "Ass. Prof. @ Télécom Paris"
+  bio              : "Assistant Professor, Télécom Paris"
   location         : "Paris, France"
   employer         :
   pubmed           : 
@@ -147,6 +147,15 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - README.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - Gemfile.lock
+  - markdown_generator
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap
+  - _config.dev.yml
 keep_files:
   - .git
   - .svn

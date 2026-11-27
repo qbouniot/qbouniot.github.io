@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "👋 Hello There !"
-excerpt: "News & Bio"
+title: "Hello there!"
+seo_title: "Quentin Bouniot – Assistant Professor, Télécom Paris"
+excerpt: "Quentin Bouniot is an Assistant Professor at Télécom Paris (Institut Polytechnique de Paris), working on uncertainty, explainability and representation learning in deep learning."
 author_profile: true
 redirect_from: 
   - /news/

@@ -1,7 +1,7 @@
 ---
 permalink: /hiring
-title: "# PhD Position 🎓"
-excerpt: ""
+title: "PhD position (filled)"
+excerpt: "PhD position at Télécom Paris on the geometry of representations in foundation models. This position has been filled."
 author_profile: true
 # redirect_from: 
 #   - /hiring/

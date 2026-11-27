@@ -3,6 +3,7 @@ title: Understanding Few-Shot Multi-Task Representation Learning Theory
 date: 2022-03-25
 authors: Bouniot, Quentin; Redko, Ievgen
 permalink: /posts/2022/03/25/understanding_mtr_meta/
+math: true
 tags: 
   - multi-task learning
   - few-shot learning

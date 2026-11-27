@@ -2,7 +2,7 @@
 layout: archive
 permalink: /people/
 title: "People"
-excerpt: "Current and previous students"
+excerpt: "PhD students and students supervised by Quentin Bouniot."
 author_profile: true
 ---
 

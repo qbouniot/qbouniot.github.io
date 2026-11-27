@@ -2,7 +2,7 @@
 <div class="person-card">
   {% if include.show_photo %}
   {% if p.photo %}
-    <img class="person-card__photo" src="{{ base_path }}/images/people/{{ p.photo }}" alt="{{ p.name }}">
+    <img class="person-card__photo" src="{{ base_path }}/images/people/{{ p.photo }}" alt="{{ p.name }}" loading="lazy" decoding="async">
   {% else %}
     {% assign parts = p.name | split: " " %}
     <div class="person-card__photo person-card__photo--initials" aria-hidden="true">{{ parts.first | slice: 0 }}{% if parts.size > 1 %}{{ parts.last | slice: 0 }}{% endif %}</div>

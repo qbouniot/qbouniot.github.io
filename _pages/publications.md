@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: "Publications by Quentin Bouniot on explainability, uncertainty and representation learning."
 permalink: /publications/
 author_profile: true
 ---

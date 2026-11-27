@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: Tips and Tricks
+title: "Tips and tricks"
 permalink: /tips/
 author_profile: true
 redirect_from:
   - /tricks/
-description: "Tips, tricks and useful librairies."
+description: "Tips, tricks and useful libraries."
 ---
 
 <h3>{{ page.description }}</h3>

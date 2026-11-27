@@ -1,0 +1,56 @@
+/* ==========================================================================
+   People page (students)
+   ========================================================================== */
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.25em;
+  margin-bottom: 2em;
+}
+
+.person-card {
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: 1em;
+  text-align: center;
+
+  p { margin: 0 0 0.35em; }
+}
+
+.person-card__photo {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 0.75em;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.person-card__photo--initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: $lighter-gray;
+  color: $gray;
+  font-size: 2.2em;
+  font-weight: bold;
+}
+
+.person-card__name   { font-weight: bold; font-size: $type-size-5; }
+.person-card__period { color: $gray; font-size: $type-size-6; }
+.person-card__type {
+  display: inline-block;
+  padding: 0.1em 0.6em;
+  border-radius: 1em;
+  background: $lighter-gray;
+  color: $text-color;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.person-card__topic  { font-size: $type-size-6; font-style: italic; }
+.person-card__meta   { color: $gray; font-size: $type-size-6; }
+.person-card__links  { margin-top: 0.5em !important; a { margin: 0 0.15em; } }

@@ -1,0 +1,27 @@
+{% assign p = include.person %}
+<div class="person-card">
+  {% if include.show_photo %}
+  {% if p.photo %}
+    <img class="person-card__photo" src="{{ base_path }}/images/people/{{ p.photo }}" alt="{{ p.name }}">
+  {% else %}
+    {% assign parts = p.name | split: " " %}
+    <div class="person-card__photo person-card__photo--initials" aria-hidden="true">{{ parts.first | slice: 0 }}{% if parts.size > 1 %}{{ parts.last | slice: 0 }}{% endif %}</div>
+  {% endif %}
+  {% endif %}
+  <div class="person-card__body">
+    <p class="person-card__name">{% if p.website %}<a href="{{ p.website }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</p>
+    {% if p.period %}<p class="person-card__period">{{ p.period }}</p>{% endif %}
+    {% if p.type %}<p><span class="person-card__type">{{ p.type }}</span></p>{% endif %}
+    {% if p.topic %}<p class="person-card__topic">{{ p.topic }}</p>{% endif %}
+    {% if p.cosup %}<p class="person-card__meta">Co-supervised with {{ p.cosup }}</p>{% endif %}
+    {% if p.now %}<p class="person-card__meta"><strong>Now:</strong> {{ p.now }}</p>{% endif %}
+    {% if p.website or p.scholar or p.github or p.linkedin %}
+    <p class="person-card__links">
+      {% if p.website %}<a href="{{ p.website }}" title="Website"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>{% endif %}
+      {% if p.scholar %}<a href="{{ p.scholar }}" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>{% endif %}
+      {% if p.github %}<a href="{{ p.github }}" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>{% endif %}
+      {% if p.linkedin %}<a href="{{ p.linkedin }}" title="LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>{% endif %}
+    </p>
+    {% endif %}
+  </div>
+</div>

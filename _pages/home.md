@@ -31,6 +31,13 @@ My main line of research revolves around **Deep Representation Learning**, and m
 <h1 id="-news"> 📰 News </h1>
 
 <ul>
+<li> <strong>November 2026 </strong>:
+  <ul>
+    <li>Itaï Zehavi joined us to start a CIFRE PhD thesis with SLB ! Welcome to the team 🎉</li>
+    <li> 1 paper accepted for <strong> oral presentations </strong> to <strong> 3 workshops @ NeurIPS 2026 </strong> 👉 <a href="https://arxiv.org/abs/2611.12869">Check it out on arxiv!</a></li>
+  </ul>
+  </li>
+ <li> <strong>October 2026 </strong> - We are organizing a second iteration of the <a href="https://rethinking-ai.github.io/">Rethinking AI workshop</a> at the <a href="https://ellis-unconference.github.io/">ELLIS Unconference</a> in Paris. We have an amazing line up of speakers! See you there 👀</li>
  <li> <strong>May 2026</strong> - 5 papers accepted @ ICML 2026! See you in Seoul 🇰🇷 Check them out 👇
     <ul>
          <li> <a href="./publications/2026-06-12-sotalign/">SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport</a> <br>
@@ -51,6 +58,7 @@ My main line of research revolves around **Deep Representation Learning**, and m
   </li>
   <li><strong>Mar 2026</strong> - I started as an Assistant Professor at Télécom Paris! 🎉</li>
   <li><strong>Feb 2026</strong> - 1 paper accepted @ CVPR 2026! 👉 <a href="https://qbouniot.github.io/publications/2026-03-27-rethinking_cbm/">Check it out!</a></li>
+  <li><strong>Jan 2026</strong> - Thibaut joined us to start his PhD at Télécom Paris! Welcome 🎉</li>
   <li><strong>Dec 2025</strong> - I will be presenting our NeurIPS paper @ EurIPS in Copenhagen! ❄️</li>
   <li><strong>Oct 2025</strong> - Check out the 2nd iteration of our workshop @ ICCV 2025 on <a href="https://excv-workshop.github.io/">"Explainable Computer Vision: Quo Vadis?"</a></li>
   <li><strong>Sep 2025</strong> - 1 paper accepter @ NeurIPS 2025! 👉 <a href="https://qbouniot.github.io/publications/2025-10-03-saes/">Check it out!</a></li>

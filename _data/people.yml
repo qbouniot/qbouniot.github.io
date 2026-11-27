@@ -1,0 +1,96 @@
+# Students supervised by Quentin Bouniot — rendered on /people/
+#
+# Each entry goes in one of three categories: phd, intern, project
+# and in either the `current` or the `previous` list.
+#
+# Fields (all optional except name and category):
+#   name:      Full name
+#   category:  phd | intern | project
+#   type:      Short label shown above the topic, e.g. "MSc thesis", "BSc thesis",
+#              "Research internship", "PRIM project" (free text)
+#   period:    e.g. "2026 – present" or "Spring 2025"
+#   topic:     Thesis / internship / project topic
+#   cosup:     Co-supervisors, e.g. "Florence d'Alché-Buc, Stefanie Jegelka"
+#   photo:     (current PhD students only) File name inside /images/people/ (e.g. jane-doe.jpg).
+#              Square images look best. If omitted, a placeholder with initials is shown.
+#              Other students are shown without any photo block.
+#   website:   Personal page URL
+#   scholar:   Google Scholar URL
+#   github:    GitHub URL
+#   linkedin:  LinkedIn URL
+#   now:       (previous students only) Where they went afterwards, e.g. "PhD at Inria"
+
+current:
+  - name: "Thibaut De Saivre"
+    category: phd
+    period: "2026 – present"
+    topic: "Explaining predictive uncertainty of deep neural networks"
+    cosup: "Florence d'Alché-Buc (Télécom Paris), Zeynep Akata (TUM)"
+    photo: thibaut-de-saivre.png
+    # website: https://example.com
+
+  - name: "Itaï Zehavi"
+    category: phd
+    period: "2026 – present"
+    topic: "Concept-based explanations for Geoscience Foundation Models"
+    cosup: "Anne-Maëlle Barneche (SLB), Florence d'Alché-Buc (Télécom Paris)"
+    photo: itai-zehavi.png
+    # website: https://example.com
+
+  - name: "Christophe Prat"
+    category: project
+    type: "Télécom Paris - Research Track"
+    period: "2026 – present"
+    topic: "Mechanistic interpretability for Textual Anomaly Detection"
+    cosup: "Pierre Fihey (Télécom Paris)"
+    # photo: christophe-prat.png
+    # website: https://example.com
+
+  - name: "Runjia Chen"
+    category: project
+    type: "Télécom Paris - Research Track"
+    period: "2026 – present"
+    topic: "Causal Concept Discovery in Multimodal Large Language Models"
+    cosup: "Thibaut de Saivre (Télécom Paris)"
+    # photo: runjia-chen.png
+    # website: https://example.com
+
+  - name: "Vidit Khazanchi"
+    category: project
+    type: "IP Paris - Research Project"
+    period: "2026 – present"
+    topic: "Video-Language Representation Alignment"
+    # cosup: "Thibaut de Saivre (Télécom Paris)"
+    # photo: vidit-khazanchi.png
+    # website: https://example.com
+
+previous:
+  - name: "Luis Wiedmann"
+    category: intern
+    type: "MSc thesis"
+    period: "Spring 2026"
+    topic: "Leveraging External 3D Priors for Enhanced Video Understanding via Multimodal LLMs"
+    cosup: "Mathieu Cord (Sorbonne Université), Zeynep Akata (TUM)"
+    # photo: luis-wiedmann.png
+    # website: https://example.com
+    now: "PhD student at TUM, with Zeynep Akata (TUM) and Cordelia Schmid (Inria)"
+
+  - name: "Julia Herbst"
+    category: intern
+    type: "Bsc thesis"
+    period: "Spring 2026"
+    topic: "Alignment of Unimodal Vision and Language Models"
+    cosup: "Simon Roschmann (TUM), Zeynep Akata (TUM)"
+    # photo: julia-herbst.png
+    # website: https://example.com
+    now: "Msc student at TUM"
+
+  - name: "Maëliss de Beaumont"
+    category: intern
+    type: "Research Internship"
+    period: "Spring/Summer 2026"
+    topic: "Calibration of Multimodal Large Language Models"
+    cosup: "Simon Roschmann (TUM), Zeynep Akata (TUM)"
+    # photo: maeliss-de-beaumont.png
+    # website: https://example.com
+    now: "Msc student at Télécom Paris"

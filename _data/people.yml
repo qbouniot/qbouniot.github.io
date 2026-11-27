@@ -21,6 +21,14 @@
 #   now:       (previous students only) Where they went afterwards, e.g. "PhD at Inria"
 
 current:
+  - name: "Itaï Zehavi"
+    category: phd
+    period: "2026 – present"
+    topic: "Concept-based explanations for Geoscience Foundation Models"
+    cosup: "Anne-Maëlle Barneche (SLB), Florence d'Alché-Buc (Télécom Paris)"
+    photo: itai-zehavi.png
+    # website: https://example.com
+
   - name: "Thibaut De Saivre"
     category: phd
     period: "2026 – present"
@@ -29,12 +37,13 @@ current:
     photo: thibaut-de-saivre.png
     # website: https://example.com
 
-  - name: "Itaï Zehavi"
-    category: phd
+  - name: "Vidit Khazanchi"
+    category: project
+    type: "IP Paris - Research Project"
     period: "2026 – present"
-    topic: "Concept-based explanations for Geoscience Foundation Models"
-    cosup: "Anne-Maëlle Barneche (SLB), Florence d'Alché-Buc (Télécom Paris)"
-    photo: itai-zehavi.png
+    topic: "Video-Language Representation Alignment"
+    # cosup: "Thibaut de Saivre (Télécom Paris)"
+    # photo: vidit-khazanchi.png
     # website: https://example.com
 
   - name: "Christophe Prat"
@@ -55,16 +64,18 @@ current:
     # photo: runjia-chen.png
     # website: https://example.com
 
-  - name: "Vidit Khazanchi"
-    category: project
-    type: "IP Paris - Research Project"
-    period: "2026 – present"
-    topic: "Video-Language Representation Alignment"
-    # cosup: "Thibaut de Saivre (Télécom Paris)"
-    # photo: vidit-khazanchi.png
-    # website: https://example.com
-
 previous:
+
+  - name: "Maëliss de Beaumont"
+    category: intern
+    type: "Research Internship"
+    period: "Spring/Summer 2026"
+    topic: "Calibration of Multimodal Large Language Models"
+    cosup: "Simon Roschmann (TUM), Zeynep Akata (TUM)"
+    # photo: maeliss-de-beaumont.png
+    # website: https://example.com
+    now: "Msc student at Télécom Paris"
+    
   - name: "Luis Wiedmann"
     category: intern
     type: "MSc thesis"
@@ -84,13 +95,3 @@ previous:
     # photo: julia-herbst.png
     # website: https://example.com
     now: "Msc student at TUM"
-
-  - name: "Maëliss de Beaumont"
-    category: intern
-    type: "Research Internship"
-    period: "Spring/Summer 2026"
-    topic: "Calibration of Multimodal Large Language Models"
-    cosup: "Simon Roschmann (TUM), Zeynep Akata (TUM)"
-    # photo: maeliss-de-beaumont.png
-    # website: https://example.com
-    now: "Msc student at Télécom Paris"
